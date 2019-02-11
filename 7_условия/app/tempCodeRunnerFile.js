@@ -21,4 +21,3 @@ switch (num) {
         console.log('Верно!');
         break;
 }
-
