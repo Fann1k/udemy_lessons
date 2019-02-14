@@ -1,6 +1,7 @@
 // let arr = ['first', 2, 3, 'fourth', 5];
 
 
+
 // // console.log(arr);
 
 // //перебор массива
