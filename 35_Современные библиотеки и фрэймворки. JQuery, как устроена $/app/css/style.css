@@ -1,0 +1,33 @@
+button {
+    margin: 80px 25px;
+    padding: 10px;
+}
+
+.list {
+    width: 700px;
+    height: 200px;
+    margin: 80px auto;
+}
+
+.block-pic1,
+.block-pic2 {
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+    float: left;
+    margin-left: 150px;
+}
+
+.block-pic1 img {
+    width: 100%;
+}
+
+.block-pic2 img {
+    width: 100%;
+}
+
+.active {
+    border-radius: 100%;
+    background-color: pink;
+    transition: all ease 1s;
+}
