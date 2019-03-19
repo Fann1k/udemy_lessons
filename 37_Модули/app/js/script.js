@@ -34,7 +34,7 @@ let user = (function () {
         console.log('Hello');
     };
     return {
-        sayHello: sayHello
+        sayHello: sayHello //возвращаем ф-ю, которую написали ранее
     };
 }());
 
